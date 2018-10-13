@@ -5,6 +5,7 @@ A few notes:
 This script will only work if your shift receiving email is Gmail
 
 LABEL_NAME should be the Gmail label for Work Shift Emails
+
 CALENDAR_NAME should be the desired Calendar to use for work shifts
 
 Setup:
